@@ -19,9 +19,9 @@
 }
 
 .header .photo {
-    width: 200px;
-    height: 200px;
-    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
 }
 
 .header .title {
@@ -87,7 +87,7 @@
     .header .title {
         grid-area: title;
         text-align: start;
-        max-width: 210px;
+        max-width: 300px;
     }
 
     .header .information {
