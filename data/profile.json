@@ -1,12 +1,12 @@
 {
   "name": "Luiz Henrique",
-  "photo": "../img/Foto de perfil.png",
+  "photo": "",
   "job": "Analista De Sistemas",
   "location": "Rua Altino Diniz Andrade, nº 40 – Ribeirão das Neves - MG",
   "phone": "(31) 9 8718-9677",
   "email": "luizhenriquep.de.s@gmail.com",
   "linkedin": "https://www.linkedin.com/in/luiz-souza-5789b0113/",
-  
+
   "skills": {
     "hardSkills": [
       {
