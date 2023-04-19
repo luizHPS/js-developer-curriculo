@@ -1,6 +1,6 @@
 {
   "name": "Luiz Henrique",
-  "photo": "/assets/img/Foto de perfil.png",
+  "photo": "../img/Foto de perfil.png",
   "job": "Analista De Sistemas",
   "location": "Rua Altino Diniz Andrade, nº 40 – Ribeirão das Neves - MG",
   "phone": "(31) 9 8718-9677",
